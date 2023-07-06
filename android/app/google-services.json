@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "72299546792",
+    "project_id": "fireship-flutter-course-fca70",
+    "storage_bucket": "fireship-flutter-course-fca70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72299546792:android:33b158bf80dbd45aa85a9d",
+        "android_client_info": {
+          "package_name": "com.webapprentice.fireshipfluttercourse.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72299546792-93js0i45i57alfakc4vnr8e57i2sbhh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Ut26Yp8yFHryiFJkfXaaD-vKUVaX_WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72299546792-93js0i45i57alfakc4vnr8e57i2sbhh4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72299546792-prcdd5hqeeo00c3cpif6ksdqrs73miqe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.fireship-flutter-course.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
